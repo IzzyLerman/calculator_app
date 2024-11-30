@@ -1,6 +1,6 @@
 # CS 362 Final Project
 
-This repository contains the application you will work with for the CS 362 final project.  The application code itself is written in the `src/` directory, but it is factored in such a way that the application cannot be run directly from the `src/` directory.  Instead, the app must be built before it can be run.
+I participated in this group project to learn how to build and deploy a CI/CD Pipeline. It's a simple calculator app with unit, integration, and E2E tests.
 
 A build process is already configured for the application using a tool called [Webpack](https://webpack.js.org/).  This build process can be used in two different ways, described below.  In either case, make sure you run the following command first to install all the app's dependencies:
 ```
